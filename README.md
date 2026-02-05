@@ -6,27 +6,27 @@ The primary goal is learning through implementation: planning modules, increment
 Memory management is a key focus of the project, including handling physical and virtual memories, address translation, and the role these mechanisms plsy in isolation and protection.
 
 ## Group Modules
-	* Dynamic Allocator
+- **Dynamic Allocator**
 		Dynamic block allocation and deallocation
-	* Kernel Heap
+- **Kernel Heap**
 		Dynamic page allocation, deallocation, and virtual-physical address conversions
-	* Fault Handler I
+- **Fault Handler I**
 
 ## Individual Modules
-	* User Heap
+- **User Heap**
 		Dynamic user-space memory management
-	* CPU Scheduling 
+- **CPU Scheduling**
 		Round-Robin Scheduling Algorithm
-	* Shared Memory
-	* Fault Handler II
-	* Fault Handler III
-	* Kernel Protection
+- **Shared Memory**
+- **Fault Handler II**
+- **Fault Handler III**
+- **Kernel Protection**
 		Memory isolation and protection mechanisms
 	
 ## Core Principles
-	* Modularity & Replacability
-	* Incremental Development
-	* Practical Learning
+- **Modularity & Replacability**
+- **Incremental Development**
+- **Practical Learning**
 
 ## Evaluation
 
